@@ -1,6 +1,6 @@
 # ==========================================
-# 🌾 APPLICATION STREAMLIT PROFESSIONNELLE
-# Détection des Mauvaises Herbes - MobileNetV2
+# 🌾 APPLICATION STREAMLIT
+# Classification automatique des cultures et mauvaises herbes par CNN  - MobileNetV2
 # Architecture: Transfer Learning | Dataset: V2 Plant Seedlings
 # ==========================================
 
